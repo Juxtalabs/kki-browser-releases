@@ -1,0 +1,6 @@
+{
+  "version": "0.9.18",
+  "url": "https://github.com/Juxtalabs/kki-browser-releases/releases/download/v0.9.18/KKIBrowserSetup.exe",
+  "sha256": "a7fb2481e35ac5cff4c3a2d2ff33cbfd4f7f8c87ba1b1b3c9433d157e2bcca09",
+  "notes": "- feat(release): first release of KKI Browser"
+}
