@@ -1,6 +1,6 @@
 {
-  "version": "3.1.0",
-  "url": "https://github.com/Juxtalabs/kki-browser-releases/releases/download/v3.1.0/KKIBrowserSetup.exe",
-  "sha256": "1b1bc73214ef487c51457747be229e6f89e15db769ccfe46f441d7ad12f1244d",
-  "notes": "- feat(browser): add face recognition integration"
+  "version": "3.1.1",
+  "url": "https://github.com/Juxtalabs/kki-browser-releases/releases/download/v3.1.1/KKIBrowserSetup.exe",
+  "sha256": "d42eae0be2b7b43847d3d1e3f3d501e3f670262dd7ccd1de6197dca4966db5cc",
+  "notes": "- chore(release): general improvements and fixes"
 }
