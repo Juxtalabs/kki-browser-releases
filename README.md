@@ -12,11 +12,11 @@ This repository holds **no source code**. It contains only:
 
 | Channel    | Manifest                  | Build                        |
 |------------|---------------------------|------------------------------|
-| `standard` | `standard/win-x64.json`   | The shipping locked product  |
+| `standard` | `standard/win-x64.json`   | The shipping locked product, Windows |
+| `standard` | `standard/mac-universal.json` | The shipping locked product, macOS (Intel and Apple silicon) |
 
-KKI Browser ships the `standard` channel on **Windows only**. It is built from the
-same source as Pluto Browser with a different brand, so its version numbers follow
-that source and will jump between KKI releases.
+KKI Browser ships the `standard` channel on Windows and macOS. The macOS manifest points at
+the `.zip` the updater installs; the `.dmg` on the same release is for a first install.
 
 ## Manifest shape
 
