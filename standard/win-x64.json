@@ -1,6 +1,6 @@
 {
-  "version": "3.1.2",
-  "url": "https://github.com/Juxtalabs/kki-browser-releases/releases/download/v3.1.2/KKIBrowserSetup.exe",
-  "sha256": "dfc10bc2d01fd399c546abb080d3a549c17e1b5a181b658250af629fdb22c94a",
+  "version": "3.1.3",
+  "url": "https://github.com/Juxtalabs/kki-browser-releases/releases/download/v3.1.3/KKIBrowserSetup.exe",
+  "sha256": "33ae251f43e1d83381ad6dc008cc303171631cf3ac47ebfc7dab29ebc6174346",
   "notes": "- chore(release): general improvements and fixes"
 }
